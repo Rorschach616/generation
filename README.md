@@ -3,9 +3,6 @@
 Este repositório tem como objetivo exibir os exercícios referentes à lógica de 
 programação e POO em java.
 
-- [Módulo 1](#id01)
-- [Módulo 2](#id02)
-
 ## Módulo 1<a name="id01"></a>
 
 [1° Módulo](https://github.com/Rorschach616/generation/tree/master/modulo-1)
